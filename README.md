@@ -10,7 +10,11 @@ Install the package via npm:
 
 npm install materialglassboxui
 
+*Pls note I donot take any responsibility for any issue caused during installation or use
+
 ## Example
+
+Demo Hosted Link: https://material-glass-box-ui-demo.vercel.app/
 
 ![Glass Box Code Demo Preview](./CodeSSDemo.png)
 
