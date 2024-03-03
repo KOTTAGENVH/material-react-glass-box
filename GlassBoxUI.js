@@ -5,7 +5,7 @@ import { styled } from '@mui/system';
 const GlassBox = styled(Box)({
   background: 'rgba(255, 255, 255, 0.5)',
   backdropFilter: 'blur(10px)',
-  borderRadius: '10px',
+  borderRadius: '20px',
   padding: '20px',
 });
 
