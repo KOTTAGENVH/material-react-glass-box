@@ -1,4 +1,4 @@
-# glass-box-ui-npm-package
+# material-react-glass-box-npm-package
 
 # MaterialGlassBoxUI
 
