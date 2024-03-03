@@ -12,15 +12,4 @@ npm install materialglassboxui
 
 ## Example
 
-import React from 'react';
-import GlassBoxUI from 'materialglassboxui';
-
-const MyComponent = () => {
-  return (
-    <GlassBoxUI sx={{ marginTop: 2 }}>
-      <h1>Hello, Glass Box!</h1>
-    </GlassBoxUI>
-  );
-};
-
-export default MyComponent;
+![Glass Box Code Demo Preview](CodeSSDemo.png)
