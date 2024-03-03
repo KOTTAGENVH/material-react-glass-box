@@ -12,4 +12,4 @@ npm install materialglassboxui
 
 ## Example
 
-![Glass Box Code Demo Preview](CodeSSDemo.png)
+![Glass Box Code Demo Preview](./CodeSSDemo.png)
