@@ -1,6 +1,6 @@
 {
   "name": "material-react-glass-box",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Material UI Glass Box Component",
   "main": "GlassBoxUI.js",
   "files": [
