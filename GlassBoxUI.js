@@ -9,8 +9,8 @@ const GlassBox = styled(Box)({
   padding: '20px',
 });
 
-const GlassBoxUI = ({ children, ...props }) => {
-  return <GlassBox {...props}>{children}</GlassBox>;
-};
+function GlassBoxUI({ children, ...props }) {
+  return React.createElement(GlassBox, props, children);
+}
 
 export default GlassBoxUI;
